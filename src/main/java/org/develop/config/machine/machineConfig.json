@@ -1,0 +1,14 @@
+{
+  "machines": [
+    {
+      "machineId": "2",
+      "name": "Alfajorera",
+      "port": "502",
+      "ipAddress": "192.168.0.16",
+      "readableRegisters": [
+        "3002","3004"
+      ]
+    }
+  ]
+}
+
